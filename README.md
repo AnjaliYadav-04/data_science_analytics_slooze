@@ -5,7 +5,7 @@
 
 ---
 
-##  What's Covered
+##  What's Covered...
 
 | # | Analysis | Techniques Used |
 |---|----------|----------------|
