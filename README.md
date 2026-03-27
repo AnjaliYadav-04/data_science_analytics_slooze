@@ -135,5 +135,5 @@ slooze-analytics/
 
 ---
 
-##  Submission
-Send your GitHub repo link or zip to: **careers@slooze.xyz**
+##  Author
+Anjali Yadav | anjalisydv@gmail.com
