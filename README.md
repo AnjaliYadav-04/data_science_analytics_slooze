@@ -1,11 +1,11 @@
-# 🍷 Slooze Wine & Spirits — Inventory Analytics Solution
+#  Slooze Wine & Spirits — Inventory Analytics Solution
 
 > **Challenge:** Slooze Data Science Hiring Challenge  
 > **Dataset:** [kaggle.com/datasets/sloozecareers/slooze-challenge](https://www.kaggle.com/datasets/sloozecareers/slooze-challenge)
 
 ---
 
-## 📋 What's Covered
+##  What's Covered
 
 | # | Analysis | Techniques Used |
 |---|----------|----------------|
@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone / Download
 ```bash
@@ -59,7 +59,7 @@ Then **Run All Cells** (`Kernel → Restart & Run All`)
 
 ---
 
-## 📦 Requirements (`requirements.txt`)
+##  Requirements (`requirements.txt`)
 ```
 kagglehub>=0.2.0
 pandas>=2.0.0
@@ -77,7 +77,7 @@ ipykernel>=6.0.0
 
 ---
 
-## 📤 Outputs
+##  Outputs
 
 After running, the following files are generated in the working directory:
 
@@ -100,7 +100,7 @@ After running, the following files are generated in the working directory:
 
 ---
 
-## 🧠 Key Analytical Choices
+##  Key Analytical Choices
 
 ### ABC Classification Thresholds
 | Class | Cumulative Revenue | Priority |
@@ -124,7 +124,7 @@ After running, the following files are generated in the working directory:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 slooze-analytics/
 ├── slooze_analysis.ipynb     ← Main notebook (all analysis)
@@ -135,5 +135,5 @@ slooze-analytics/
 
 ---
 
-## 📬 Submission
+##  Submission
 Send your GitHub repo link or zip to: **careers@slooze.xyz**
